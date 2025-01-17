@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on ExampleSite</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. What does AI really stand for?</title>
+      <link>//localhost:1313/blog/first-blog/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/first-blog/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;my-thoughts-on-ai-and-the-future&#34;&gt;My thoughts on AI and the future!&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;You may think that Allen Iverson, otherwise known as AI, has his best days behind him.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m here to disprove you.&lt;/p&gt;
+&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
+&lt;p&gt;I started my career in data science after completing my Master&amp;rsquo;s degree in Data Science from Northwestern University. During my time there, I developed a strong foundation in AI and machine learning, which I have been able to apply in various projects and roles.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
