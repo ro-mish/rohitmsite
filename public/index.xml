@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
+    <title>Rohit Mishra</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on ExampleSite</description>
+    <description>Recent content on Rohit Mishra</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Rohit Mishra</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -18,11 +18,10 @@
       <link>//localhost:1313/about/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-website&#34;&gt;Welcome to My Website!&lt;/h1&gt;
-&lt;p&gt;Hello! I&amp;rsquo;m Rohit Mishra, a passionate Data Scientist with expertise in AI and Machine Learning. Explore my projects, experience, and more as you navigate through my site. I&amp;rsquo;m excited to share my journey and insights with you!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Rohit Mishra - Data Scientist&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/assets/headshot.jpeg&#34; title=&#34;Width: 1px&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-resume-summary&#34;&gt;🌟 Resume Summary&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Rohit Mishra&lt;/strong&gt; is a highly skilled Data Scientist with a strong background in AI and Machine Learning. 🎓 With a Master&amp;rsquo;s degree in Data Science from Northwestern University and extensive experience at Toyota, Rohit specializes in integrating AI solutions to enhance product lines and improve operational efficiency. His expertise spans across Python, PyTorch, MongoDB, and various AI platforms, making him a valuable asset for any organization looking to leverage cutting-edge technology for business growth. 🚀&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;hi---im-rohit&#34;&gt;Hi - I&amp;rsquo;m Rohit!&lt;/h1&gt;
+&lt;p&gt;I currently work on AI/ML at Toyota Connected and am in graduate school at Northwestern University. My focus is on building reliable, efficient, and scalable AI solutions.&lt;/p&gt;
+&lt;p&gt;Over the past year, I&amp;rsquo;ve contributed to projects improving customer experience, safety, and mobility through AI. I&amp;rsquo;m excited to apply AI to broader consumer challenges.&lt;/p&gt;
+&lt;p&gt;I also love music production. I switch off between playing the guitar, experimenting with mixing audio, and working with artists.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects &amp; Docs</title>
@@ -43,17 +42,18 @@
 &lt;p&gt;Senior Data Science Capstone Project advised by Mikhail Belkin and Parthe Pandit.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1. What does AI really stand for?</title>
+      <title>1. My thoughts on AI and the future!</title>
       <link>//localhost:1313/blog/first-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/blog/first-blog/</guid>
       <description>&lt;hr&gt;
-&lt;h1 id=&#34;my-thoughts-on-ai-and-the-future&#34;&gt;My thoughts on AI and the future!&lt;/h1&gt;
+&lt;h3 id=&#34;ai-allen-iverson&#34;&gt;AI: Allen Iverson&lt;/h3&gt;
 &lt;hr&gt;
-&lt;p&gt;You may think that Allen Iverson, otherwise known as AI, has his best days behind him.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m here to disprove you.&lt;/p&gt;
-&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
-&lt;p&gt;I started my career in data science after completing my Master&amp;rsquo;s degree in Data Science from Northwestern University. During my time there, I developed a strong foundation in AI and machine learning, which I have been able to apply in various projects and roles.&lt;/p&gt;</description>
+&lt;p&gt;Yes, we’re talking about Allen Iverson, not your fancy chatbots or “machine learning” fluff. Let’s be real: this AI practically changed basketball (and culture) forever. And guess what? He’s only getting started.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Iverson’s Prime? It’s Now
+Forget the retirement talk—time off just means he’s coming back with bionic knees (figuratively, at least). While others “manage loads” and skip games left and right, Iverson’s been quietly perfecting the art of the crossover. If mid-40s comebacks were easy, everyone would do it. But that’s exactly why AI will.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume Summary</title>
