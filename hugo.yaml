@@ -1,4 +1,4 @@
-baseURL: "localhost:1313"
+baseURL: "msds431rohitmsite.netlify.app"
 title: Rohit Mishra
 paginate: 5
 theme: PaperMod
@@ -138,3 +138,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+relativeURLs: true
+canonifyURLs: true
