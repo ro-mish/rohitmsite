@@ -9,7 +9,6 @@ url: /about/
 
 I am a Data Scientist at Toyota Connected, focusing on AI/ML solutions to enhance customer experience and safety. I'm also pursuing graduate studies in Data Science at Northwestern University.
 
-![Rohit Mishra - Data Scientist][profile-pic]
 
 ## Professional Experience
 
@@ -39,6 +38,4 @@ I am a Data Scientist at Toyota Connected, focusing on AI/ML solutions to enhanc
 
 I also have a passion for music production, often switching between playing the guitar and mixing audio.
 
-
-[profile-pic]: /assets/headshot.jpeg "Width: 1px"
 
